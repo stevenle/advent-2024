@@ -1,4 +1,4 @@
-/** https://adventofcode.com/2024/day/3 */
+/** https://adventofcode.com/2024/day/4 */
 
 import fs from 'node:fs';
 import path from 'node:path';
